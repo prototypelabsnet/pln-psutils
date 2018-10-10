@@ -1,5 +1,5 @@
-# psutils
-PowerShell utility scripts
+# pln-psutils
+PowerShell utility scripts by PLN
 
 Just a random collection of PowerShell utility scripts
 
